@@ -1,2 +1,2 @@
-# CSS_practice
-CSS&amp;HTML practice
+# basic-html
+Barebones HTML template
